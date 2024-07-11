@@ -1,12 +1,12 @@
 # Подготовка 
-poetry shell
-poetry install
+poetry shell  
+poetry install  
 
 # Описание файлов
-Файл main.py создан для демонстрации работы функции.
-Файле main.ipynb также для демонстрации.
-Тесты в test_batching.py
-Сама функция в batching_module.py
+Файл main.py создан для демонстрации работы функции.  
+Файл main.ipynb также для демонстрации.  
+Тесты в test_batching.py  
+Сама функция в batching_module.py  
 
 # Описание задачи
 Необходимо реализовать функцию, которая будет: 
